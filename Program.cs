@@ -22,7 +22,10 @@ namespace _01_ByteBank
             Console.WriteLine("Agencia: " + contaDaGabriela.agencia);
             Console.WriteLine("Numero: " + contaDaGabriela.numero);
             Console.WriteLine("Saldo: " + contaDaGabriela.saldo);
-        
+
+
+            contaDaGabriela.saldo += 200;
+            Console.WriteLine(contaDaGabriela.saldo);
 
             Console.ReadLine();
         }
