@@ -1,0 +1,15 @@
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\teste.exe
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\teste.dll
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\ref\teste.dll
+C:\Users\gustt\Documents\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.dll
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\ref\teste.dll
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\gustt\Documents\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
